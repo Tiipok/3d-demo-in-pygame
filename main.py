@@ -223,7 +223,7 @@ def matrixRotationY(angle):
 
 def main():
 
-    mesh = get_mesh('videoship') # <- name of the obj file to load mesh
+    mesh = get_mesh('VideoShip') # <- name of the obj file to load mesh
 
     # constants and variables
     fTheta = 0
